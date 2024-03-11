@@ -1,11 +1,11 @@
 ### Hi👋, I'm Gaurav Singh
 
 
-A Front-end developer, UI/UX designer.
+A Front-end developer and UI/UX designer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently pursuing Btech. CSE(IoT), Mumbai University
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
