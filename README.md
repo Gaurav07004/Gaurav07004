@@ -1,7 +1,7 @@
 ### Hi👋, I'm Gaurav Singh
 
-<!--
-**Gaurav07004/Gaurav07004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+A Front-end developer, UI/UX designer.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
